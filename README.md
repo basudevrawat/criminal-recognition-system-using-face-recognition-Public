@@ -1,15 +1,8 @@
 
-# Microsoft Engage Program 2022 (Face-Recognition Challenge)
-**Problem Statement:**
-To develop a browser based application to demonstrate the use of face- recognition.
-
 
 ## Criminal Identification System   
 A web applicatiom developed to identify criminals using their photo and webcam, built using python's face-Recognition library.
    
-## Video Demo
-You can find the video demo of the app: https://youtu.be/9FvcQzpen5Y
-
 
 ## Features of the application
 * Secure Login System (only admin users are allowed)
@@ -99,24 +92,4 @@ And the second option is to detect the criminal using webcam.
       
  **5)Track Criminals**       
  After detecting the criminals in live cameras the webiste updates the database with the last spotted location and time of the criminal.
-
-
-
-
-
-
-
-
-    
-## Screenshots
-### Log In Page of the website
-![App Screenshot](screenshots/login.jpg?raw=true "Log In Page")  
-### Dashboard/Identify Criminals
-![App Screenshot](screenshots/dashboard.jpg?raw=true "Log In Page")  
-### For viewing criminals in the Database
-![App Screenshot](screenshots/view_criminals.jpg?raw=true "Log In Page")  
-### Identify criminal in the database with webcam
-![App Screenshot](screenshots/webcam.png?raw=true "Log In Page")     
-### Last Spotted Criminal with date and time
-![App Screenshot](screenshots/track_criminals.jpg?raw=true "Log In Page")    
 
