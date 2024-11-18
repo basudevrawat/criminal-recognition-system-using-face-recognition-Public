@@ -72,8 +72,8 @@ And open http://127.0.0.1:8000/ at your system
 ## Steps to navigate the website
 **1)Login Page**    
 To login enter the following credentials  
-**Police EmailID : gayatri@gmail.com**    
-**Password: gayatri**  
+**Police EmailID : basudev@gmail.com**    
+**Password: basudev**  
 Hit the Login buttton to enter the website   
          
        
